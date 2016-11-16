@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "starwars",
+    "rating": 5,
+    "length": 120
+  },
+  {
+    "id": 2,
+    "text": "Star treck",
+    "rating": 2,
+    "length": 65
+  },
+  {
+    "id": 3,
+    "text": "Terminator",
+    "rating": 4,
+    "length": 125
+  },
+  {
+    "id": 4,
+    "text": "The hobbit",
+    "rating": 5,
+    "length": 432
+  }
+
+]
